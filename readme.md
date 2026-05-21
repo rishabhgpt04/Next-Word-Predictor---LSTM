@@ -23,7 +23,7 @@ Input (tokenized sequences)
 → LSTM Layer (150 units)
 → Dense Layer (Softmax activation)
 → Output (next word prediction)
-
+![LSTM Model](images/Untitled-2025-04-27-1402.png)
 Details:
 
 Embedding size: 100
